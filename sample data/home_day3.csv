@@ -1,0 +1,201 @@
+Date,Time,Appliance,Energy_Consumption,Room,Status
+2022-01-01,13:53,Heater,2.03,Bedroom,On
+2022-01-01,10:28,Heater,1.79,Bedroom,On
+2022-01-01,17:00,Washing Machine,1.21,Laundry,On
+2022-01-01,00:10,Heater,2.36,Bedroom,On
+2022-01-01,20:03,TV,0.0,Living Room,Off
+2022-01-01,20:01,Heater,1.92,Bedroom,On
+2022-01-01,16:50,Refrigerator,0.0,Kitchen,Off
+2022-01-01,08:38,Washing Machine,1.55,Laundry,On
+2022-01-01,22:49,Washing Machine,0.0,Laundry,Off
+2022-01-01,14:54,Washing Machine,1.67,Laundry,On
+2022-01-01,17:52,Heater,0.0,Bedroom,Off
+2022-01-01,14:05,Refrigerator,0.0,Kitchen,Off
+2022-01-01,23:33,Washing Machine,0.0,Laundry,Off
+2022-01-01,14:00,EVCar,0.0,Garage,Off
+2022-01-01,10:13,Washing Machine,0.0,Laundry,Off
+2022-01-01,00:27,TV,0.67,Living Room,On
+2022-01-01,00:57,EVCar,117.44,Garage,On
+2022-01-01,16:59,Washing Machine,0.0,Laundry,Off
+2022-01-01,00:57,Refrigerator,1.44,Kitchen,On
+2022-01-01,01:40,Washing Machine,0.0,Laundry,Off
+2022-01-01,20:02,Washing Machine,1.48,Laundry,On
+2022-01-01,14:08,Refrigerator,1.4,Kitchen,On
+2022-01-01,03:15,EVCar,95.93,Garage,On
+2022-01-01,05:49,Washing Machine,0.0,Laundry,Off
+2022-01-01,01:54,Washing Machine,0.0,Laundry,Off
+2022-01-01,12:11,Refrigerator,0.0,Kitchen,Off
+2022-01-01,17:30,Washing Machine,0.0,Laundry,Off
+2022-01-01,07:27,EVCar,0.0,Garage,Off
+2022-01-01,07:30,Heater,0.0,Bedroom,Off
+2022-01-01,19:46,EVCar,0.0,Garage,Off
+2022-01-01,20:26,Heater,0.0,Bedroom,Off
+2022-01-01,01:26,Heater,0.0,Bedroom,Off
+2022-01-01,16:35,EVCar,91.06,Garage,On
+2022-01-01,16:50,TV,0.0,Living Room,Off
+2022-01-01,20:44,Refrigerator,1.16,Kitchen,On
+2022-01-01,11:52,Washing Machine,0.0,Laundry,Off
+2022-01-01,17:54,EVCar,0.0,Garage,Off
+2022-01-01,11:14,TV,0.78,Living Room,On
+2022-01-01,10:04,TV,0.9,Living Room,On
+2022-01-01,06:49,Washing Machine,1.46,Laundry,On
+2022-01-01,09:04,Washing Machine,0.0,Laundry,Off
+2022-01-01,09:19,EVCar,104.14,Garage,On
+2022-01-01,10:48,EVCar,0.0,Garage,Off
+2022-01-01,01:50,Washing Machine,0.0,Laundry,Off
+2022-01-01,04:09,EVCar,93.83,Garage,On
+2022-01-01,08:11,EVCar,111.14,Garage,On
+2022-01-01,20:38,Washing Machine,0.0,Laundry,Off
+2022-01-01,10:21,EVCar,0.0,Garage,Off
+2022-01-01,14:50,Refrigerator,1.15,Kitchen,On
+2022-01-01,20:41,Refrigerator,1.26,Kitchen,On
+2022-01-01,12:14,Heater,0.0,Bedroom,Off
+2022-01-01,02:04,EVCar,0.0,Garage,Off
+2022-01-01,19:23,Refrigerator,0.0,Kitchen,Off
+2022-01-01,20:49,Washing Machine,0.0,Laundry,Off
+2022-01-01,03:39,Washing Machine,0.0,Laundry,Off
+2022-01-01,04:08,Heater,0.0,Bedroom,Off
+2022-01-01,03:39,Heater,0.0,Bedroom,Off
+2022-01-01,12:30,TV,0.83,Living Room,On
+2022-01-01,18:29,EVCar,117.27,Garage,On
+2022-01-01,01:26,Refrigerator,0.0,Kitchen,Off
+2022-01-01,21:48,Washing Machine,1.47,Laundry,On
+2022-01-01,13:44,Refrigerator,1.12,Kitchen,On
+2022-01-01,00:29,Washing Machine,0.0,Laundry,Off
+2022-01-01,15:37,Refrigerator,0.0,Kitchen,Off
+2022-01-01,17:38,Heater,1.96,Bedroom,On
+2022-01-01,18:10,Heater,2.08,Bedroom,On
+2022-01-01,01:21,TV,0.91,Living Room,On
+2022-01-01,10:32,TV,0.76,Living Room,On
+2022-01-01,06:08,Refrigerator,1.4,Kitchen,On
+2022-01-01,16:36,TV,0.78,Living Room,On
+2022-01-01,21:04,Washing Machine,1.8,Laundry,On
+2022-01-01,20:33,Heater,1.67,Bedroom,On
+2022-01-01,20:31,EVCar,0.0,Garage,Off
+2022-01-01,21:56,Heater,2.09,Bedroom,On
+2022-01-01,22:10,Refrigerator,1.15,Kitchen,On
+2022-01-01,12:25,EVCar,104.77,Garage,On
+2022-01-01,06:55,Washing Machine,0.0,Laundry,Off
+2022-01-01,00:59,Heater,2.16,Bedroom,On
+2022-01-01,12:27,Heater,0.0,Bedroom,Off
+2022-01-01,03:52,Heater,1.77,Bedroom,On
+2022-01-01,06:03,Heater,1.69,Bedroom,On
+2022-01-01,21:41,Refrigerator,1.21,Kitchen,On
+2022-01-01,07:09,TV,0.94,Living Room,On
+2022-01-01,23:05,Refrigerator,1.34,Kitchen,On
+2022-01-01,22:50,EVCar,111.26,Garage,On
+2022-01-01,15:07,TV,0.0,Living Room,Off
+2022-01-01,12:31,EVCar,86.83,Garage,On
+2022-01-01,17:42,TV,0.96,Living Room,On
+2022-01-01,20:39,Heater,2.29,Bedroom,On
+2022-01-01,14:21,Refrigerator,1.34,Kitchen,On
+2022-01-01,11:07,Heater,0.0,Bedroom,Off
+2022-01-01,01:46,TV,0.95,Living Room,On
+2022-01-01,14:27,Heater,0.0,Bedroom,Off
+2022-01-01,11:47,TV,0.93,Living Room,On
+2022-01-01,01:02,EVCar,108.46,Garage,On
+2022-01-01,00:05,Refrigerator,0.0,Kitchen,Off
+2022-01-01,21:33,EVCar,0.0,Garage,Off
+2022-01-01,21:56,Refrigerator,1.03,Kitchen,On
+2022-01-01,00:10,EVCar,99.8,Garage,On
+2022-01-01,01:50,Heater,0.0,Bedroom,Off
+2022-01-01,00:51,EVCar,0.0,Garage,Off
+2022-01-01,16:10,Washing Machine,0.0,Laundry,Off
+2022-01-01,08:30,Heater,0.0,Bedroom,Off
+2022-01-01,05:00,TV,0.0,Living Room,Off
+2022-01-01,15:30,Washing Machine,0.0,Laundry,Off
+2022-01-01,21:43,Heater,1.99,Bedroom,On
+2022-01-01,22:24,Heater,1.95,Bedroom,On
+2022-01-01,10:22,Washing Machine,0.0,Laundry,Off
+2022-01-01,17:41,TV,0.0,Living Room,Off
+2022-01-01,18:15,TV,0.0,Living Room,Off
+2022-01-01,10:44,Refrigerator,0.0,Kitchen,Off
+2022-01-01,19:21,Washing Machine,1.22,Laundry,On
+2022-01-01,19:26,Washing Machine,0.0,Laundry,Off
+2022-01-01,18:16,Washing Machine,0.0,Laundry,Off
+2022-01-01,01:54,Washing Machine,0.0,Laundry,Off
+2022-01-01,23:55,Refrigerator,1.06,Kitchen,On
+2022-01-01,03:54,Refrigerator,1.04,Kitchen,On
+2022-01-01,14:27,TV,0.0,Living Room,Off
+2022-01-01,15:48,Washing Machine,1.32,Laundry,On
+2022-01-01,08:18,Heater,0.0,Bedroom,Off
+2022-01-01,01:27,Washing Machine,1.57,Laundry,On
+2022-01-01,21:12,Heater,0.0,Bedroom,Off
+2022-01-01,07:22,TV,0.82,Living Room,On
+2022-01-01,12:57,Heater,0.0,Bedroom,Off
+2022-01-01,23:24,TV,0.0,Living Room,Off
+2022-01-01,10:43,TV,0.89,Living Room,On
+2022-01-01,04:47,EVCar,0.0,Garage,Off
+2022-01-01,06:19,Refrigerator,0.0,Kitchen,Off
+2022-01-01,13:58,EVCar,0.0,Garage,Off
+2022-01-01,13:43,Refrigerator,0.0,Kitchen,Off
+2022-01-01,14:06,Refrigerator,0.98,Kitchen,On
+2022-01-01,12:42,Heater,2.33,Bedroom,On
+2022-01-01,02:54,TV,0.72,Living Room,On
+2022-01-01,06:53,EVCar,0.0,Garage,Off
+2022-01-01,05:07,Refrigerator,0.0,Kitchen,Off
+2022-01-01,16:36,Washing Machine,0.0,Laundry,Off
+2022-01-01,04:38,Refrigerator,1.17,Kitchen,On
+2022-01-01,04:31,Washing Machine,0.0,Laundry,Off
+2022-01-01,07:49,TV,0.0,Living Room,Off
+2022-01-01,07:01,TV,0.0,Living Room,Off
+2022-01-01,08:35,Heater,0.0,Bedroom,Off
+2022-01-01,02:26,Heater,1.73,Bedroom,On
+2022-01-01,01:36,EVCar,0.0,Garage,Off
+2022-01-01,09:19,Heater,1.92,Bedroom,On
+2022-01-01,02:56,Refrigerator,0.0,Kitchen,Off
+2022-01-01,07:22,EVCar,0.0,Garage,Off
+2022-01-01,10:54,Refrigerator,1.01,Kitchen,On
+2022-01-01,00:59,Refrigerator,1.0,Kitchen,On
+2022-01-01,10:33,Refrigerator,1.36,Kitchen,On
+2022-01-01,03:45,EVCar,98.84,Garage,On
+2022-01-01,13:23,TV,0.67,Living Room,On
+2022-01-01,23:38,Washing Machine,0.0,Laundry,Off
+2022-01-01,17:03,Washing Machine,0.0,Laundry,Off
+2022-01-01,15:08,Washing Machine,0.0,Laundry,Off
+2022-01-01,13:31,TV,0.0,Living Room,Off
+2022-01-01,22:04,EVCar,89.33,Garage,On
+2022-01-01,15:49,Washing Machine,1.5,Laundry,On
+2022-01-01,01:11,Heater,2.28,Bedroom,On
+2022-01-01,13:19,TV,0.68,Living Room,On
+2022-01-01,18:25,Heater,0.0,Bedroom,Off
+2022-01-01,05:09,Refrigerator,0.0,Kitchen,Off
+2022-01-01,11:57,Washing Machine,1.4,Laundry,On
+2022-01-01,17:41,Refrigerator,1.18,Kitchen,On
+2022-01-01,19:24,Washing Machine,1.76,Laundry,On
+2022-01-01,07:12,Refrigerator,0.0,Kitchen,Off
+2022-01-01,09:22,TV,0.66,Living Room,On
+2022-01-01,13:30,Heater,0.0,Bedroom,Off
+2022-01-01,14:49,EVCar,0.0,Garage,Off
+2022-01-01,05:17,Washing Machine,1.66,Laundry,On
+2022-01-01,06:21,TV,0.88,Living Room,On
+2022-01-01,10:10,Heater,2.11,Bedroom,On
+2022-01-01,15:21,Heater,0.0,Bedroom,Off
+2022-01-01,01:46,Heater,0.0,Bedroom,Off
+2022-01-01,07:21,Heater,1.86,Bedroom,On
+2022-01-01,15:49,TV,0.0,Living Room,Off
+2022-01-01,12:54,Refrigerator,1.32,Kitchen,On
+2022-01-01,02:03,Heater,0.0,Bedroom,Off
+2022-01-01,20:26,TV,0.0,Living Room,Off
+2022-01-01,20:24,Washing Machine,1.54,Laundry,On
+2022-01-01,12:22,Heater,0.0,Bedroom,Off
+2022-01-01,00:51,Heater,0.0,Bedroom,Off
+2022-01-01,23:35,Washing Machine,0.0,Laundry,Off
+2022-01-01,13:50,EVCar,83.71,Garage,On
+2022-01-01,17:03,EVCar,0.0,Garage,Off
+2022-01-01,05:05,TV,0.72,Living Room,On
+2022-01-01,15:38,Refrigerator,1.0,Kitchen,On
+2022-01-01,01:06,Washing Machine,1.68,Laundry,On
+2022-01-01,01:54,Heater,0.0,Bedroom,Off
+2022-01-01,15:21,EVCar,100.19,Garage,On
+2022-01-01,15:41,Heater,0.0,Bedroom,Off
+2022-01-01,13:23,Refrigerator,1.42,Kitchen,On
+2022-01-01,14:53,TV,0.0,Living Room,Off
+2022-01-01,00:41,Heater,0.0,Bedroom,Off
+2022-01-01,04:05,EVCar,0.0,Garage,Off
+2022-01-01,19:15,EVCar,104.82,Garage,On
+2022-01-01,04:47,Heater,2.38,Bedroom,On
+2022-01-01,20:45,Refrigerator,1.3,Kitchen,On
+2022-01-01,12:39,Heater,2.14,Bedroom,On
+2022-01-01,13:57,EVCar,0.0,Garage,Off
+2022-01-01,20:06,Heater,0.0,Bedroom,Off
